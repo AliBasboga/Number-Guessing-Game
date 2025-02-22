@@ -1,3 +1,3 @@
 # Number-Guessing-Game
 Number Guessing Game
-[alt](./foto.png)
+v[alt](./foto.png)
